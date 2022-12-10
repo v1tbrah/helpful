@@ -23,6 +23,9 @@
 * [1] https://www.youtube.com/watch?v=iJK99AQqKZY
 * [2] https://www.youtube.com/watch?v=G43JMzdRv00
 
+## deployment
+
+* [deployment settings for production](https://vk.com/@habr_articles-rss-650396164-1726241171)
 ## slice
 
 * [slice tricks cheat sheet](https://ueokande.github.io/go-slice-tricks/)
