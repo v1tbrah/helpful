@@ -15,6 +15,13 @@
 ## linters
 
 * [how to use](https://habr.com/ru/post/457970/)
+* [golangci](https://github.com/golangci/golangci-lint)
+* [complete guide](https://freshman.tech/linting-golang/)
+
+## testing
+
+* [1] https://www.youtube.com/watch?v=iJK99AQqKZY
+* [2] https://www.youtube.com/watch?v=G43JMzdRv00
 
 ## slice
 
@@ -28,3 +35,9 @@
 ## channels
 
 * [channel anatomy](https://habr.com/ru/post/490336/)
+
+## other
+
+* [practicum-go-07-group](https://disk.yandex.ru/d/a7nrL0qmeZeEuw)
+* [practicum-go-09-group](https://disk.yandex.ru/d/-ixPKp0O5Cfi2w)
+
