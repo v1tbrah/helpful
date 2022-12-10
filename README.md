@@ -15,7 +15,7 @@
 ## linters
 
 * [how to use](https://habr.com/ru/post/457970/)
-* [golangci](https://github.com/golangci/golangci-lint)
+* [golangci-lint](https://golangci-lint.run/)
 * [complete guide](https://freshman.tech/linting-golang/)
 
 ## testing
