@@ -43,4 +43,4 @@
 
 * [practicum-go-07-group](https://disk.yandex.ru/d/a7nrL0qmeZeEuw)
 * [practicum-go-09-group](https://disk.yandex.ru/d/-ixPKp0O5Cfi2w)
-
+* [gist Mikhail Tsymbalov questions](https://gist.github.com/tmvrus)
