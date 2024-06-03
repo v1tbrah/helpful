@@ -28,6 +28,8 @@
 * [deployment settings for production](https://vk.com/@habr_articles-rss-650396164-1726241171)
 ## slice
 
+* [explanation | video](https://www.youtube.com/watch?v=IC-f2zp85x0)
+* [deep explanation | video](https://www.youtube.com/watch?v=10LW7NROfOQ)
 * [examples | video](https://www.youtube.com/watch?v=1vAIvqDo5LE)
 * [slice tricks cheat sheet](https://ueokande.github.io/go-slice-tricks/)
 
